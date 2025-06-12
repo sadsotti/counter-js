@@ -82,6 +82,6 @@ counter-js/
 
 ## 🔗 Link Utili
 
-* [start2impact](https://www.start2impact.it/) (Link al tuo profilo GitHub)
+* [start2impact](https://www.start2impact.it/)
 * [LinkedIn](https://linkedin.com/in/lorenzo-sottile)
 ---
