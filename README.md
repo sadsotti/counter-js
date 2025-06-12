@@ -62,17 +62,6 @@ Segui questi passaggi per clonare il repository e avviare il progetto sul tuo co
 
 Il progetto segue una struttura standard e organizzata per una migliore manutenibilità:
 
-counter-js/
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── img/
-│       └── background.jpg
-└── README.md
-
 * `index.html`: Il file HTML principale che include gli stili e gli script.
 * `assets/`: Contiene tutte le risorse statiche.
     * `css/`: Fogli di stile CSS.
@@ -83,5 +72,5 @@ counter-js/
 ## 🔗 Link Utili
 
 * [start2impact](https://www.start2impact.it/)
-* [LinkedIn](https://linkedin.com/in/lorenzo-sottile)
+* [Il Mio LinkedIn](https://linkedin.com/in/lorenzo-sottile)
 ---
