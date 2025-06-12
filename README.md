@@ -1,4 +1,4 @@
-# 🚀 Counter-js
+# 🚀 counter-js
 
 Un semplice e intuitivo contatore realizzato con **JavaScript puro**, concepito come progetto per il corso di **JavaScript** del Master in "Full Stack Development e AI" di **start2impact**.
 
@@ -8,7 +8,7 @@ Un semplice e intuitivo contatore realizzato con **JavaScript puro**, concepito 
 
 Vuoi vedere counter.js in azione? Clicca il link qui sotto:
 
-👉 [**counter-js**](https://il-tuo-link-netlify-o-firebase-qui.netlify.app/) 👈
+👉 [**counter-js**](https://counter-js-s2i.netlify.app/) 👈
 
 ---
 
@@ -45,7 +45,7 @@ Segui questi passaggi per clonare il repository e avviare il progetto sul tuo co
 1.  **Clona il repository:**
 
     ```
-    git clone [https://github.com/sadsotti/counter-js.git](https://github.com/sadsotti/counter-js.git)
+    git clone https://github.com/sadsotti/counter-js.git
     ```
 
 2.  **Naviga nella directory del progetto:**
