@@ -1,36 +1,36 @@
 # 🚀 counter-js
 
-Un semplice e intuitivo contatore realizzato con **JavaScript puro**, concepito come progetto per il corso di **JavaScript** del Master in "Full Stack Development e AI" di **start2impact**.
+A simple and intuitive counter built with **vanilla JavaScript**, created as a project for the **JavaScript** course of the "Full Stack Development and AI" Master at **start2impact**.
 
 ---
 
-## 🔗 Provalo Live!
+## 🔗 Try it Live!
 
-Vuoi vedere counter.js in azione? Clicca il link qui sotto:
+Want to see counter.js in action? Click the link below:
 
 👉 [**counter-js**](https://counter-js-s2i.netlify.app/) 👈
 
 ---
 
-## 🎯 Obiettivo del Progetto
+## 🎯 Project Goal
 
-L'obiettivo principale di questo progetto era sviluppare una **single-page** che simulasse il comportamento di un contatore interattivo. L'applicazione permette agli utenti di **incrementare** e **decrementare** un valore numerico tramite pulsanti dedicati, con un valore iniziale di `0`.
+The main goal of this project was to develop a **single-page** application that simulates the behavior of an interactive counter. The app allows users to **increase** and **decrease** a numerical value through dedicated buttons, with an initial value of `0`.
 
-Il core dello sviluppo è stata la **manipolazione del DOM (Document Object Model)** (senza l'ausilio di librerie o framework come jQuery, React, Angular o Vue) e l'implementazione logica in **puro JavaScript**.
-
----
-
-## ✨ Caratteristiche Implementate
-
-* **Contatore Interattivo:** Aumenta o diminuisci il valore del contatore con un semplice click.
-* **Reset Funzionalità:** Un pulsante dedicato per riportare rapidamente il contatore al suo valore iniziale di `0`.
-* **Interfaccia Dinamica:** Tutti gli elementi dell'interfaccia (display del valore, pulsanti) sono creati e gestiti dinamicamente via JavaScript.
-* **Design Semplice e Intuitivo:** Un'interfaccia utente pulita e facile da usare.
-* **Stile Moderno:** Un tocco visivo moderno (o almeno ci ho provato) grazie al CSS.
+The core of the development was **DOM (Document Object Model) manipulation** (without using libraries or frameworks like jQuery, React, Angular, or Vue) and the logical implementation in **pure JavaScript**.
 
 ---
 
-## 🛠️ Tecnologie Utilizzate
+## ✨ Features Implemented
+
+* **Interactive Counter:** Increase or decrease the counter value with a simple click.
+* **Reset Functionality:** A dedicated button to quickly reset the counter to its initial value of `0`.
+* **Dynamic Interface:** All interface elements (value display, buttons) are created and managed dynamically via JavaScript.
+* **Simple and Intuitive Design:** A clean and user-friendly interface.
+* **Modern Style:** A modern visual touch (or at least I tried) thanks to CSS.
+
+---
+
+## 🛠️ Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -38,39 +38,40 @@ Il core dello sviluppo è stata la **manipolazione del DOM (Document Object Mode
 
 ---
 
-## 🚀 Come Avviare il Progetto Localmente
+## 🚀 How to Run the Project Locally
 
-Segui questi passaggi per clonare il repository e avviare il progetto sul tuo computer:
+Follow these steps to clone the repository and run the project on your computer:
 
-1.  **Clona il repository:**
+1.  **Clone the repository:**
 
-    ```
+    ```bash
     git clone https://github.com/sadsotti/counter-js.git
     ```
 
-2.  **Naviga nella directory del progetto:**
-    ```
+2.  **Navigate to the project directory:**
+    ```bash
     cd counter-js
     ```
 
-3.  **Apri il file `index.html`:**
-    Puoi semplicemente aprire il file `index.html` nel tuo browser preferito.
+3.  **Open the `index.html` file:**
+    You can simply open the `index.html` file in your preferred browser.
 
 ---
 
-## 📂 Struttura del Progetto
+## 📂 Project Structure
 
-Il progetto segue una struttura standard e organizzata per una migliore manutenibilità:
+The project follows a standard and organized structure for better maintainability:
 
-* `index.html`: Il file HTML principale che include gli stili e gli script.
-* `assets/`: Contiene tutte le risorse statiche.
-    * `css/`: Fogli di stile CSS.
-    * `js/`: File JavaScript per la logica del contatore e la manipolazione del DOM.
-    * `img/`: Immagini utilizzate nel progetto (ad esempio, per lo sfondo).
-* `README.md`: Questo file di descrizione del progetto.
+* `index.html`: The main HTML file that includes styles and scripts.
+* `assets/`: Contains all static resources.
+    * `css/`: CSS stylesheets.
+    * `js/`: JavaScript files for counter logic and DOM manipulation.
+    * `img/`: Images used in the project (e.g., for the background).
+* `README.md`: This project description file.
 
-## 🔗 Link Utili
+## 🔗 Useful Links
 
 * [start2impact](https://www.start2impact.it/)
-* [Il Mio LinkedIn](https://linkedin.com/in/lorenzo-sottile)
+* [My LinkedIn](https://linkedin.com/in/lorenzo-sottile)
+
 ---
